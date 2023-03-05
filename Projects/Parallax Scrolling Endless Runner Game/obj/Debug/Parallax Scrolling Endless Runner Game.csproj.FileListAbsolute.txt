@@ -1,0 +1,20 @@
+D:\Education\B. Tech\Semesters\5th Semester\Cloud Computing Fundamentals\Game\Parallax Scrolling Endless Runner Game\bin\Debug\Parallax Scrolling Endless Runner Game.exe.config
+D:\Education\B. Tech\Semesters\5th Semester\Cloud Computing Fundamentals\Game\Parallax Scrolling Endless Runner Game\bin\Debug\Parallax Scrolling Endless Runner Game.exe
+D:\Education\B. Tech\Semesters\5th Semester\Cloud Computing Fundamentals\Game\Parallax Scrolling Endless Runner Game\bin\Debug\Parallax Scrolling Endless Runner Game.pdb
+D:\Education\B. Tech\Semesters\5th Semester\Cloud Computing Fundamentals\Game\Parallax Scrolling Endless Runner Game\obj\Debug\Parallax Scrolling Endless Runner Game.csproj.AssemblyReference.cache
+D:\Education\B. Tech\Semesters\5th Semester\Cloud Computing Fundamentals\Game\Parallax Scrolling Endless Runner Game\obj\Debug\Parallax Scrolling Endless Runner Game.csproj.SuggestedBindingRedirects.cache
+D:\Education\B. Tech\Semesters\5th Semester\Cloud Computing Fundamentals\Game\Parallax Scrolling Endless Runner Game\obj\Debug\MainWindow.g.cs
+D:\Education\B. Tech\Semesters\5th Semester\Cloud Computing Fundamentals\Game\Parallax Scrolling Endless Runner Game\obj\Debug\App.g.cs
+D:\Education\B. Tech\Semesters\5th Semester\Cloud Computing Fundamentals\Game\Parallax Scrolling Endless Runner Game\obj\Debug\Parallax Scrolling Endless Runner Game_MarkupCompile.cache
+D:\Education\B. Tech\Semesters\5th Semester\Cloud Computing Fundamentals\Game\Parallax Scrolling Endless Runner Game\obj\Debug\Parallax Scrolling Endless Runner Game_MarkupCompile.lref
+D:\Education\B. Tech\Semesters\5th Semester\Cloud Computing Fundamentals\Game\Parallax Scrolling Endless Runner Game\obj\Debug\MainWindow.baml
+D:\Education\B. Tech\Semesters\5th Semester\Cloud Computing Fundamentals\Game\Parallax Scrolling Endless Runner Game\obj\Debug\Parallax Scrolling Endless Runner Game.g.resources
+D:\Education\B. Tech\Semesters\5th Semester\Cloud Computing Fundamentals\Game\Parallax Scrolling Endless Runner Game\obj\Debug\Parallax_Scrolling_Endless_Runner_Game.Properties.Resources.resources
+D:\Education\B. Tech\Semesters\5th Semester\Cloud Computing Fundamentals\Game\Parallax Scrolling Endless Runner Game\obj\Debug\Parallax Scrolling Endless Runner Game.csproj.GenerateResource.cache
+D:\Education\B. Tech\Semesters\5th Semester\Cloud Computing Fundamentals\Game\Parallax Scrolling Endless Runner Game\obj\Debug\Parallax Scrolling Endless Runner Game.csproj.CoreCompileInputs.cache
+D:\Education\B. Tech\Semesters\5th Semester\Cloud Computing Fundamentals\Game\Parallax Scrolling Endless Runner Game\obj\Debug\Parallax Scrolling Endless Runner Game.exe
+D:\Education\B. Tech\Semesters\5th Semester\Cloud Computing Fundamentals\Game\Parallax Scrolling Endless Runner Game\obj\Debug\Parallax Scrolling Endless Runner Game.pdb
+D:\Education\B. Tech\Semesters\5th Semester\Cloud Computing Fundamentals\Game\Parallax Scrolling Endless Runner Game\bin\Debug\Parallax Scrolling Endless Runner Game.exe.manifest
+D:\Education\B. Tech\Semesters\5th Semester\Cloud Computing Fundamentals\Game\Parallax Scrolling Endless Runner Game\bin\Debug\Parallax Scrolling Endless Runner Game.application
+D:\Education\B. Tech\Semesters\5th Semester\Cloud Computing Fundamentals\Game\Parallax Scrolling Endless Runner Game\obj\Debug\Parallax Scrolling Endless Runner Game.exe.manifest
+D:\Education\B. Tech\Semesters\5th Semester\Cloud Computing Fundamentals\Game\Parallax Scrolling Endless Runner Game\obj\Debug\Parallax Scrolling Endless Runner Game.application
